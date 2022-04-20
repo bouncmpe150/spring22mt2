@@ -1,0 +1,12 @@
+ProductID	Product	Original Price	Customs Duty	KDV	OTV	Currency	Coming From
+167	Portable 2TB External Hard Drive	61.99	1.2	1.08	1.45	14.67	USA
+46	Oral-B Cross Action Electric Toothbrush Replacement Brush Heads Refill, 4Count	19.49	1.18	1.18	1.18	14.67	Europe
+219	REVLON One-Step Volumizer Original 1.0 Hair Dryer and Hot Air Brush	34.88	1.18	1.08	1.18	14.74	Asia
+372	Philips Norelco Multigroomer All-in-One Trimmer Series 3000, 13 Piece	19.96	1.18	1.18	1.18	14.74	Europe
+13	Funko Pop! Marvel: WandaVision - The Scarlet Witch Vinyl Collectible Figure	11.32	1.2	1.18	1.8	14.73	Europe
+29	PetSafe Drinkwell Multi-Tier Pet Fountain	35.44	1.2	1.18	1.5	14.70	USA
+984	LEGO STAR WARS Millennium Falcon	128	1.18	1.18	1.18	14.72	USA
+125	PS5 Controller Charger Station	19.99	1.2	1.01	1.18	14.68	USA
+755	Nintendo Switch	299	1.18	1.18	1.5	14.68	USA
+497	iRobot Roomba j7+	769.98	1.2	1.08	1.18	14.67	Europe
+961	Roborock S7 Robot Vacuum and Mop Cleaner	549.99	1.2	1.01	1.18	14.65	USA
